@@ -1,0 +1,8 @@
+myenv
+PROXY-List
+valid_http.txt
+valid_socks5.txt
+valid_socks4.txt
+valid_https.txt
+all_proxies.txt
+log.txt
